@@ -1,0 +1,342 @@
+{
+  "Quick Camera Image 2022-04-08 at 2.10.00 PM.png1141778": {
+    "fileref": "",
+    "size": 1141778,
+    "filename": "Quick Camera Image 2022-04-08 at 2.10.00 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [462, 480, 495, 506, 488, 500, 438, 462],
+          "all_points_y": [231, 330, 336, 328, 215, 191, 195, 231]
+        },
+        "region_attributes": { "K": "1" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [728, 740, 845, 870, 870, 850, 735, 728],
+          "all_points_y": [229, 237, 229, 244, 181, 198, 207, 229]
+        },
+        "region_attributes": { "K": "2" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [674, 699, 688, 697, 711, 721, 740, 674],
+          "all_points_y": [412, 442, 548, 556, 552, 439, 419, 412]
+        },
+        "region_attributes": { "K": "3" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [357, 402, 408, 442, 424, 384, 355, 357],
+          "all_points_y": [374, 339, 367, 409, 428, 389, 380, 374]
+        },
+        "region_attributes": { "B": "4" }
+      },
+      "4": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [823, 852, 858, 878, 819, 834, 823],
+          "all_points_y": [466, 470, 419, 401, 389, 419, 466]
+        },
+        "region_attributes": { "B": "5" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.19.01 PM.png1234451": {
+    "fileref": "",
+    "size": 1234451,
+    "filename": "Quick Camera Image 2022-04-08 at 2.19.01 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [591, 646, 654, 642, 707, 686, 610, 591],
+          "all_points_y": [57, 40, 63, 83, 466, 473, 84, 57]
+        },
+        "region_attributes": { "M": "1" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.20.07 PM.png1220178": {
+    "fileref": "",
+    "size": 1220178,
+    "filename": "Quick Camera Image 2022-04-08 at 2.20.07 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            130, 171, 190, 199, 197, 193, 407, 414, 398, 383, 376, 151, 140,
+            131, 130
+          ],
+          "all_points_y": [
+            223, 198, 203, 221, 229, 235, 552, 565, 583, 578, 570, 252, 249,
+            241, 223
+          ]
+        },
+        "region_attributes": { "M": "1" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.21.56 PM.png1222393": {
+    "fileref": "",
+    "size": 1222393,
+    "filename": "Quick Camera Image 2022-04-08 at 2.21.56 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            141, 163, 189, 208, 212, 212, 195, 216, 214, 185, 178, 154, 143,
+            135, 141
+          ],
+          "all_points_y": [
+            239, 231, 232, 241, 253, 259, 263, 658, 678, 683, 663, 263, 260,
+            253, 239
+          ]
+        },
+        "region_attributes": { "M": "1" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.22.04 PM.png1230981": {
+    "fileref": "",
+    "size": 1230981,
+    "filename": "Quick Camera Image 2022-04-08 at 2.22.04 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            344, 366, 391, 403, 407, 408, 401, 402, 592, 592, 599, 578, 566,
+            563, 365, 358, 354, 346, 343, 342, 344
+          ],
+          "all_points_y": [
+            161, 141, 135, 139, 153, 163, 168, 177, 500, 505, 518, 533, 518,
+            518, 185, 185, 184, 181, 175, 168, 161
+          ]
+        },
+        "region_attributes": { "M": "1" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.22.22 PM.png1199469": {
+    "fileref": "",
+    "size": 1199469,
+    "filename": "Quick Camera Image 2022-04-08 at 2.22.22 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            272, 275, 276, 283, 288, 299, 307, 307, 703, 709, 729, 729, 711,
+            709, 707, 303, 297, 295, 294, 286, 284, 272
+          ],
+          "all_points_y": [
+            661, 635, 623, 614, 605, 604, 606, 621, 653, 657, 661, 681, 684,
+            687, 688, 662, 664, 669, 669, 668, 666, 661
+          ]
+        },
+        "region_attributes": { "M": "1" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.24.04 PM.png1275686": {
+    "fileref": "",
+    "size": 1275686,
+    "filename": "Quick Camera Image 2022-04-08 at 2.24.04 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            268, 293, 304, 320, 328, 324, 318, 439, 444, 437, 419, 409, 289,
+            276, 267, 259, 261, 263, 268
+          ],
+          "all_points_y": [
+            76, 61, 57, 61, 78, 85, 94, 268, 287, 308, 300, 287, 109, 110, 107,
+            95, 89, 82, 76
+          ]
+        },
+        "region_attributes": { "N": "1" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            639, 652, 663, 671, 956, 965, 977, 978, 980, 972, 946, 934, 927,
+            916, 930, 648, 648, 643, 639
+          ],
+          "all_points_y": [
+            153, 136, 147, 150, 413, 402, 402, 411, 420, 433, 461, 460, 454,
+            441, 436, 175, 169, 163, 153
+          ]
+        },
+        "region_attributes": { "M": "2" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.25.30 PM.png1369640": {
+    "fileref": "",
+    "size": 1369640,
+    "filename": "Quick Camera Image 2022-04-08 at 2.25.30 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            101, 140, 160, 169, 169, 164, 153, 350, 351, 355, 335, 331, 325,
+            127, 110, 102, 101, 101
+          ],
+          "all_points_y": [
+            417, 437, 440, 434, 421, 417, 411, 74, 69, 56, 46, 56, 58, 387, 391,
+            394, 399, 417
+          ]
+        },
+        "region_attributes": { "I": "1" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            457, 473, 503, 513, 516, 517, 512, 508, 505, 554, 553, 554, 534,
+            531, 526, 467, 457, 453, 454, 457
+          ],
+          "all_points_y": [
+            62, 53, 50, 55, 63, 76, 82, 86, 88, 616, 622, 634, 640, 627, 622,
+            87, 81, 78, 70, 62
+          ]
+        },
+        "region_attributes": { "M": "2" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            810, 825, 854, 859, 862, 850, 843, 640, 612, 809, 802, 798, 810
+          ],
+          "all_points_y": [55, 50, 56, 68, 76, 96, 93, 595, 582, 79, 73, 60, 55]
+        },
+        "region_attributes": { "M": "3" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            903, 908, 927, 923, 925, 1005, 1021, 1027, 1028, 1022, 991, 977,
+            965, 963, 961, 967, 971, 975, 897, 898, 899, 900, 898, 903
+          ],
+          "all_points_y": [
+            160, 157, 157, 163, 174, 547, 547, 556, 565, 572, 580, 582, 580,
+            571, 561, 556, 553, 550, 184, 180, 175, 169, 166, 160
+          ]
+        },
+        "region_attributes": { "I": "4" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.27.44 PM.png1324674": {
+    "fileref": "",
+    "size": 1324674,
+    "filename": "Quick Camera Image 2022-04-08 at 2.27.44 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            133, 150, 175, 187, 187, 181, 180, 176, 157, 129, 141, 137, 123,
+            125, 133
+          ],
+          "all_points_y": [
+            42, 41, 42, 48, 64, 74, 73, 81, 639, 644, 75, 70, 65, 61, 42
+          ]
+        },
+        "region_attributes": { "M": "1" }
+      },
+      "1": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            314, 335, 350, 365, 376, 375, 377, 373, 370, 631, 610, 333, 325,
+            320, 316, 314, 314
+          ],
+          "all_points_y": [
+            104, 82, 82, 78, 84, 93, 101, 110, 116, 606, 621, 123, 123, 124,
+            114, 110, 104
+          ]
+        },
+        "region_attributes": { "M": "2" }
+      },
+      "2": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            776, 798, 817, 827, 829, 830, 818, 815, 826, 797, 781, 774, 767,
+            768, 770, 776
+          ],
+          "all_points_y": [
+            52, 44, 46, 54, 61, 72, 81, 80, 638, 637, 82, 79, 74, 65, 59, 52
+          ]
+        },
+        "region_attributes": { "M": "3" }
+      },
+      "3": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            937, 981, 999, 1004, 1001, 989, 1024, 992, 951, 943, 939, 935, 936,
+            937
+          ],
+          "all_points_y": [
+            57, 47, 52, 62, 79, 82, 633, 633, 88, 87, 84, 76, 70, 57
+          ]
+        },
+        "region_attributes": { "M": "4" }
+      }
+    }
+  },
+  "Quick Camera Image 2022-04-08 at 2.27.58 PM.png1242858": {
+    "fileref": "",
+    "size": 1242858,
+    "filename": "Quick Camera Image 2022-04-08 at 2.27.58 PM.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            413, 679, 705, 442, 450, 451, 450, 445, 438, 419, 403, 394, 387,
+            396, 407, 413
+          ],
+          "all_points_y": [
+            109, 594, 576, 91, 83, 77, 66, 62, 61, 61, 69, 79, 93, 105, 102, 109
+          ]
+        },
+        "region_attributes": { "M": "1" }
+      }
+    }
+  }
+}
