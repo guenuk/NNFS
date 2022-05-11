@@ -1,5 +1,5 @@
 import json
-with open("./merge.json", "r") as f:
+with open("./482v2.json ", "r") as f:
     file = json.load(f)
 print(file)
 count =0
